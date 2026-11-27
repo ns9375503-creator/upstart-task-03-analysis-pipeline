@@ -1,0 +1,202 @@
+>lcl|Query_1530695 seq1_example_query
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>dbj|LC632699.1|:170-229 [strand=forward] [chromosome=11] [organism=Homo sapiens] [isolate=Iraqi individua, F 5] [gcode=1] [cell_type=white blood cell] [tissue_type=Blood] [geo_loc_name=Iraq] [collection_date=2017-10-07] Homo sapiens Iraqi individua, F 5 HBB gene for hemoglobin subunit beta, partial sequence.
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476479.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Yoruba_7_0] [gcode=1] [pop_variant=Yoruba] [geo_loc_name=Nigeria]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>dbj|LC727513.1|:163-222 [strand=forward] [chromosome=11] [organism=Homo sapiens] [isolate=B6_294CC] [gcode=1] [tissue_type=Blood] [geo_loc_name=Iraq] [collection_date=2021-08-01] [note=An Iraqi individual with thalassemia] Homo sapiens B6_294CC HBB gene for hemoglobin subunit beta, partial sequence.
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476473.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Yoruba_4_0] [gcode=1] [pop_variant=Yoruba] [geo_loc_name=Nigeria]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476391.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Kiga_42_0] [gcode=1] [pop_variant=BaKiga] [geo_loc_name=Uganda]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476368.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Kiga_30_1] [gcode=1] [pop_variant=BaKiga] [geo_loc_name=Uganda]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476341.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Kiga_17_0] [gcode=1] [pop_variant=BaKiga] [geo_loc_name=Uganda]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476238.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Nzime_12_1] [gcode=1] [pop_variant=Nzime] [geo_loc_name=Cameroon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476211.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Nzebi_27_0] [gcode=1] [pop_variant=Nzebi] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476210.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Nzebi_26_1] [gcode=1] [pop_variant=Nzebi] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476191.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Nzebi_17_0] [gcode=1] [pop_variant=Nzebi] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476189.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Nzebi_16_0] [gcode=1] [pop_variant=Nzebi] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476117.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bakota_26_0] [gcode=1] [pop_variant=Bakota] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|PP393236.1|:273-332 [strand=forward] [chromosome=11] [organism=Homo sapiens] [isolate=Z4] [gcode=1] [geo_loc_name=Iraq] [isolation_source=blood] [collection_date=Jun-2022] [collected_by=Ayman Ziadoon Jawad]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476092.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bakota_13_1] [gcode=1] [pop_variant=Bakota] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476071.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bakota_3_0] [gcode=1] [pop_variant=Bakota] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476011.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Twa_14_0] [gcode=1] [pop_variant=BaTwa] [geo_loc_name=Uganda]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475978.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Biaka_18_1] [gcode=1] [pop_variant=Biaka] [geo_loc_name=Central African Republic]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475956.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Biaka_7_1] [gcode=1] [pop_variant=Biaka] [geo_loc_name=Central African Republic]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475945.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Biaka_2_0] [gcode=1] [pop_variant=Biaka] [geo_loc_name=Central African Republic]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475908.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bakoya_8_1] [gcode=1] [pop_variant=Bakoya] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476077.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bakota_6_0] [gcode=1] [pop_variant=Bakota] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476230.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Nzime_8_1] [gcode=1] [pop_variant=Nzime] [geo_loc_name=Cameroon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476232.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Nzime_9_1] [gcode=1] [pop_variant=Nzime] [geo_loc_name=Cameroon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475954.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Biaka_6_1] [gcode=1] [pop_variant=Biaka] [geo_loc_name=Central African Republic]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475902.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bakoya_5_1] [gcode=1] [pop_variant=Bakoya] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475887.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Baka_80_0] [gcode=1] [pop_variant=Baka] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475873.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Baka_73_0] [gcode=1] [pop_variant=Baka] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475868.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Baka_70_1] [gcode=1] [pop_variant=Baka] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|ON584433.1|:140-199 [strand=forward] [organism=Homo sapiens] [isolate=4] [gcode=1] Homo sapiens isolate 4 hemoglobin beta chain (HBB) gene, partial cds.
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476428.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Mandenka_1_1] [gcode=1] [pop_variant=Mandenka] [geo_loc_name=Senegal]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>dbj|LC507565.1|:158-217 [strand=forward] [organism=Homo sapiens] [gcode=1] [cell_type=white blood cell] [tissue_type=blood] [geo_loc_name=Iraq:Thi Qar province] [isolation_source=Iraqi individual No.15] [collection_date=2017-10-07] Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi individual No.15.
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476008.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Twa_12_1] [gcode=1] [pop_variant=BaTwa] [geo_loc_name=Uganda]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476408.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bantu_1_1] [gcode=1] [pop_variant=Bantu_NE] [geo_loc_name=Kenya]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476321.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Kiga_7_0] [gcode=1] [pop_variant=BaKiga] [geo_loc_name=Uganda]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475895.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bakoya_2_0] [gcode=1] [pop_variant=Bakoya] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476098.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bakota_16_1] [gcode=1] [pop_variant=Bakota] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476293.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Nzime_40_0] [gcode=1] [pop_variant=Nzime] [geo_loc_name=Cameroon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476270.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Nzime_28_1] [gcode=1] [pop_variant=Nzime] [geo_loc_name=Cameroon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476268.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Nzime_27_1] [gcode=1] [pop_variant=Nzime] [geo_loc_name=Cameroon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>dbj|LC632695.1|:167-226 [strand=forward] [chromosome=11] [organism=Homo sapiens] [isolate=Iraqi individua, F 1] [gcode=1] [cell_type=white blood cell] [tissue_type=Blood] [geo_loc_name=Iraq] [collection_date=2017-10-07] Homo sapiens Iraqi individua, F 1 HBB gene for hemoglobin subunit beta, partial sequence.
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476020.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Twa_18_1] [gcode=1] [pop_variant=BaTwa] [geo_loc_name=Uganda]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475858.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Baka_65_1] [gcode=1] [pop_variant=Baka] [geo_loc_name=Cameroon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476300.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Nzime_43_1] [gcode=1] [pop_variant=Nzime] [geo_loc_name=Cameroon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475856.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Baka_64_1] [gcode=1] [pop_variant=Baka] [geo_loc_name=Cameroon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|PP393247.1|:273-332 [strand=forward] [chromosome=11] [organism=Homo sapiens] [isolate=Z19] [gcode=1] [geo_loc_name=Iraq] [isolation_source=blood] [collection_date=Jun-2022] [collected_by=Ayman Ziadoon Jawad]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475840.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Baka_56_1] [gcode=1] [pop_variant=Baka] [geo_loc_name=Cameroon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475974.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Biaka_16_1] [gcode=1] [pop_variant=Biaka] [geo_loc_name=Central African Republic]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475800.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Baka_36_1] [gcode=1] [pop_variant=Baka] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476227.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Nzime_7_0] [gcode=1] [pop_variant=Nzime] [geo_loc_name=Cameroon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475779.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Baka_26_0] [gcode=1] [pop_variant=Baka] [geo_loc_name=Cameroon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475758.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Baka_15_1] [gcode=1] [pop_variant=Baka] [geo_loc_name=Cameroon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476398.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Kiga_45_1] [gcode=1] [pop_variant=BaKiga] [geo_loc_name=Uganda]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476180.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Nzebi_11_1] [gcode=1] [pop_variant=Nzebi] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475753.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Baka_13_0] [gcode=1] [pop_variant=Baka] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475947.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Biaka_3_0] [gcode=1] [pop_variant=Biaka] [geo_loc_name=Central African Republic]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476370.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Kiga_31_1] [gcode=1] [pop_variant=BaKiga] [geo_loc_name=Uganda]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476223.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Nzime_5_0] [gcode=1] [pop_variant=Nzime] [geo_loc_name=Cameroon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475724.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bongo_31_1] [gcode=1] [pop_variant=Babongo] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475719.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bongo_29_0] [gcode=1] [pop_variant=Babongo] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476331.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Kiga_12_0] [gcode=1] [pop_variant=BaKiga] [geo_loc_name=Uganda]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476048.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Mbuti_4_1] [gcode=1] [pop_variant=Mbuti] [geo_loc_name=Democratic Republic of the Congo]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476209.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Nzebi_26_0] [gcode=1] [pop_variant=Nzebi] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475692.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bongo_15_1] [gcode=1] [pop_variant=Babongo] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476468.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Yoruba_1_1] [gcode=1] [pop_variant=Yoruba] [geo_loc_name=Nigeria]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>dbj|LC632700.1|:163-222 [strand=forward] [chromosome=11] [organism=Homo sapiens] [isolate=Iraqi individua, F 6] [gcode=1] [cell_type=white blood cell] [tissue_type=Blood] [geo_loc_name=Iraq] [collection_date=2017-10-07] Homo sapiens Iraqi individua, F 6 HBB gene for hemoglobin subunit beta, partial sequence.
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475940.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bakoya_24_1] [gcode=1] [pop_variant=Bakoya] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476208.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Nzebi_25_1] [gcode=1] [pop_variant=Nzebi] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476130.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bakota_32_1] [gcode=1] [pop_variant=Bakota] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475893.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bakoya_1_0] [gcode=1] [pop_variant=Bakoya] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475771.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Baka_22_0] [gcode=1] [pop_variant=Baka] [geo_loc_name=Cameroon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475690.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bongo_14_1] [gcode=1] [pop_variant=Babongo] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|ON584453.1|:140-199 [strand=forward] [organism=Homo sapiens] [isolate=24] [gcode=1] Homo sapiens isolate 24 hemoglobin beta chain (HBB) gene, partial cds.
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476353.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Kiga_23_0] [gcode=1] [pop_variant=BaKiga] [geo_loc_name=Uganda]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MZ485455.1|:160-219 [strand=forward] [organism=Homo sapiens] [isolate=A52] [gcode=1] Homo sapiens isolate A52 hemoglobin subunit beta (HBB) gene, partial cds.
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476411.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bantu_3_0] [gcode=1] [pop_variant=Bantu_NE] [geo_loc_name=Kenya]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475823.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Baka_48_0] [gcode=1] [pop_variant=Baka] [geo_loc_name=Cameroon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475689.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bongo_14_0] [gcode=1] [pop_variant=Babongo] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476146.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bakota_40_1] [gcode=1] [pop_variant=Bakota] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476094.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bakota_14_1] [gcode=1] [pop_variant=Bakota] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476079.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bakota_7_0] [gcode=1] [pop_variant=Bakota] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|ON584432.1|:140-199 [strand=forward] [organism=Homo sapiens] [isolate=3] [gcode=1] Homo sapiens isolate 3 hemoglobin beta chain (HBB) gene, partial cds.
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475900.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bakoya_4_1] [gcode=1] [pop_variant=Bakoya] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476197.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Nzebi_20_0] [gcode=1] [pop_variant=Nzebi] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475748.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Baka_10_1] [gcode=1] [pop_variant=Baka] [geo_loc_name=Cameroon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475778.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Baka_25_1] [gcode=1] [pop_variant=Baka] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475688.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bongo_13_1] [gcode=1] [pop_variant=Babongo] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475686.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bongo_12_1] [gcode=1] [pop_variant=Babongo] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475676.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bongo_7_1] [gcode=1] [pop_variant=Babongo] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476009.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Twa_13_0] [gcode=1] [pop_variant=BaTwa] [geo_loc_name=Uganda]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476132.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bakota_33_1] [gcode=1] [pop_variant=Bakota] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475749.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Baka_11_0] [gcode=1] [pop_variant=Baka] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476037.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Twa_27_0] [gcode=1] [pop_variant=BaTwa] [geo_loc_name=Uganda]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475829.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Baka_51_0] [gcode=1] [pop_variant=Baka] [geo_loc_name=Cameroon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475705.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bongo_22_0] [gcode=1] [pop_variant=Babongo] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475871.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Baka_72_0] [gcode=1] [pop_variant=Baka] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476282.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Nzime_34_1] [gcode=1] [pop_variant=Nzime] [geo_loc_name=Cameroon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK475674.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bongo_6_1] [gcode=1] [pop_variant=Babongo] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|MK476078.1|:138-197 [strand=forward] [organism=Homo sapiens] [specimen_voucher=Bakota_6_1] [gcode=1] [pop_variant=Bakota] [geo_loc_name=Gabon]
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
+>gb|KP309824.1|:146-205 [strand=forward] [chromosome=11p] [organism=Homo sapiens] [isolate=BT047A] [gcode=1] [fwd-primer-name=61991-62012f] [fwd-primer-seq=agaagagccaaggacaggtacg] [rev-primer-name=62730-62751r] [rev-primer-seq=tgcaatcattcgtctgtttccc] Homo sapiens isolate BT047A beta globin (HBB) gene, partial cds.
+ATGGTGCACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAAC
